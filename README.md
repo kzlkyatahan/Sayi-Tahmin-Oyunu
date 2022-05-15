@@ -1,5 +1,6 @@
 # Sayi-Tahmin-Oyunu
-Ekran Görüntüleri
+- Ekran Görüntüleri -
+
 Ana Sayfa
 
 ![AnaSayfa](https://user-images.githubusercontent.com/84927381/168469289-ad717eab-2322-4053-b2e9-492a20330749.png)
