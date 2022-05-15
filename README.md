@@ -1,5 +1,5 @@
 # Sayi-Tahmin-Oyunu
-- Ekran Görüntüleri -
+Ekran Görüntüleri
 
 Ana Sayfa
 
