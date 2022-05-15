@@ -1,5 +1,6 @@
 # Sayi-Tahmin-Oyunu
 Sayı Tahmin Oyunu
+
 ![AnaSayfa](https://user-images.githubusercontent.com/84927381/168469289-ad717eab-2322-4053-b2e9-492a20330749.png)
 ![TahminEtSayfasi](https://user-images.githubusercontent.com/84927381/168469291-f9f54f75-a59f-45f0-8ee9-df34640683c9.png)
 
